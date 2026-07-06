@@ -1,3 +1,5 @@
+// TC -> O(n)
+// SC -> O(1)
 class Solution {
 public:
     int maxDigitRange(vector<int>& nums) {
@@ -11,10 +13,6 @@ public:
             int x = s[s.size() - 1] - s[0];
 
             ans[x] += nums[i];
-
-            // cout << s[0] << endl;
-            // cout << x << endl;
-            // cout << ans[x] << endl;
         }
 
         for(int i = 39; i >= 0; i--) {
