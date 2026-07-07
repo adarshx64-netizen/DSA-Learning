@@ -1,11 +1,19 @@
 class Solution {
 public:
 
+    // TC -> O(n)
+    // SC -> O(1)
+    int optimal(vector<int>& nums, int n) {
 
-    // int optimal(vector<int>& nums, int n) {
+        int ones = 0, twos = 0;
+        for(int i = 0; i < n; i++) {
 
+            ones ^= (nums[i] & ~twos);
+            twos ^= (nums[i] & ~ones); 
+        }
 
-    // }
+        return ones;
+    }
 
     // TC -> O(n logn + n/3)
     // SC -> O(1)
@@ -51,6 +59,7 @@ public:
 
         
         // return better(nums, n);
-        return better2(nums, n);
+        // return better2(nums, n);
+        return optimal(nums, n);
     }
 };
