@@ -35,6 +35,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0231-power-of-two) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
