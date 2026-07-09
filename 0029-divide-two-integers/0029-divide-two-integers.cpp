@@ -4,6 +4,30 @@ public:
 // Better: "Find the largest power every time." → needs an inner loop.
 // Optimal: "Check each bit exactly once." → only one loop.
 
+int optimal(int dividend, int divisor) {
+    // Overflow case
+    if (dividend == INT_MIN && divisor == -1) return INT_MAX;
+
+    // Determine sign
+    int sign = ((dividend < 0) ^ (divisor < 0)) ? -1 : 1;
+
+    // Convert to positive
+    long long n = llabs((long long)dividend);
+    long long d = llabs((long long)divisor);
+
+    long long q = 0;
+
+    for(int i = 31; i >= 0; i--) {
+
+        if(n >= (d << i)) {
+
+            n -= (d << i);
+            q += (1LL << i);
+        }
+    }
+    return sign * q;
+}
+
 
 /*
 Better :-
@@ -28,8 +52,7 @@ Better :-
 int better(int dividend, int divisor) {
 
     // Overflow case:
-    if (dividend == INT_MIN && divisor == -1)
-        return INT_MAX;
+    if (dividend == INT_MIN && divisor == -1) return INT_MAX;
 
     // Determine the sign of the answer.
     int sign = ((dividend < 0) ^ (divisor < 0)) ? -1 : 1;
@@ -81,6 +104,7 @@ Brute Force :-
 */
     int divide(int dividend, int divisor) {
         
-        return better(dividend, divisor);
+        // return better(dividend, divisor);
+        return optimal(dividend, divisor);
     }
 };
