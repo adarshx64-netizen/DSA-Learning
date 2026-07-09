@@ -34,11 +34,13 @@ Documenting my DSA learning journey, one problem at a time.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0231-power-of-two) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0231-power-of-two) |
