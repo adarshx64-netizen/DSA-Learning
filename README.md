@@ -12,11 +12,13 @@ Documenting my DSA learning journey, one problem at a time.
 | [0078-subsets](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,4 +53,12 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
