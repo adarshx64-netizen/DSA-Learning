@@ -61,4 +61,8 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
