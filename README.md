@@ -35,6 +35,7 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0520-detect-capital](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3110-score-of-a-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3110-score-of-a-string) |
 ## Math
 |  |
 | ------- |
