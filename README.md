@@ -59,6 +59,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -76,6 +77,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
