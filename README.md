@@ -13,6 +13,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0137-single-number-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0503-next-greater-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -62,10 +63,12 @@ Documenting my DSA learning journey, one problem at a time.
 | [0155-min-stack](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0503-next-greater-element-ii) |
 ## Enumeration
 |  |
 | ------- |
