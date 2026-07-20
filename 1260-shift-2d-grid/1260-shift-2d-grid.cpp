@@ -5,42 +5,58 @@ public:
         int n = grid[0].size();
 
         k %= (m*n);
-
-        vector<int> temp;
         vector<vector<int>> ans(m, vector<int>(n));
 
-        // Store last k elements
-        for (int r = m - 1; r >= 0; r--) {
-            for (int c = n - 1; c >= 0; c--) {
-                if (k > 0) temp.push_back(grid[r][c]);
-                k--;
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                
+                int ind = i * n + j;
+                int newInd = (ind + k) % (m * n);
+
+                int newRow = newInd / n;
+                int newCol = newInd % n;
+
+                ans[newRow][newCol] = grid[i][j];
             }
-        }
+        } 
 
-        reverse(temp.begin(), temp.end());
 
-        // Insert last k element to the start 
-        int ind = 0;
-        int r = 0, c = 0;
-        while(ind < temp.size()) {
-            ans[r][c] = temp[ind];
 
-            ind++; c++;
 
-            if(c >= n) {r++; c = 0;}
-        }
+    // BF
+        // vector<int> temp;
+        // // Store last k elements
+        // for (int r = m - 1; r >= 0; r--) {
+        //     for (int c = n - 1; c >= 0; c--) {
+        //         if (k > 0) temp.push_back(grid[r][c]);
+        //         k--;
+        //     }
+        // }
 
-        // Store remaining element
-        int i = 0, j = 0;
-        while(r < m) {
-            ans[r][c] = grid[i][j];
+        // reverse(temp.begin(), temp.end());
 
-            c++;
-            if(c >= n) {c = 0; r++;}
+        // // Insert last k element to the start 
+        // int ind = 0;
+        // int r = 0, c = 0;
+        // while(ind < temp.size()) {
+        //     ans[r][c] = temp[ind];
 
-            j++;
-            if(j >= n) {j = 0; i++;}
-        }
+        //     ind++; c++;
+
+        //     if(c >= n) {r++; c = 0;}
+        // }
+
+        // // Store remaining element
+        // int i = 0, j = 0;
+        // while(r < m) {
+        //     ans[r][c] = grid[i][j];
+
+        //     c++;
+        //     if(c >= n) {c = 0; r++;}
+
+        //     j++;
+        //     if(j >= n) {j = 0; i++;}
+        // }
 
         return ans;
     }
