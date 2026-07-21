@@ -8,10 +8,8 @@ public:
         // BF2(h, n, ans);
         optimal(h, n, ans);
 
-
         return ans;
     }
-
 
     // TC -> O(N)
     // SC -> O(1)
@@ -40,7 +38,6 @@ public:
         }
     }
 
-
     // TC -> O(3*N) ≈ O(n)
     // SC -> O(2*N) ≈ O(n)
     void BF(vector<int>& h, int n, int& ans) {
@@ -62,7 +59,6 @@ public:
             else ans += (min(r[i], l[i]) - h[i]);
         }
     }
-
 
     // TC -> O(N^2)
     // SC -> O(1)
