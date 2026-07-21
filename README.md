@@ -7,6 +7,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0078-subsets) |
@@ -62,6 +63,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
@@ -69,6 +71,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0503-next-greater-element-ii) |
 ## Enumeration
@@ -92,4 +95,12 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1260-shift-2d-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
