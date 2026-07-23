@@ -20,6 +20,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1260-shift-2d-grid](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1260-shift-2d-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0503-next-greater-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2104-sum-of-subarray-ranges) |
 ## Enumeration
 |  |
 | ------- |
