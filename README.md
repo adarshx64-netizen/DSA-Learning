@@ -11,6 +11,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0046-permutations](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0137-single-number-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
@@ -68,6 +69,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0402-remove-k-digits) |
@@ -80,6 +82,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0503-next-greater-element-ii) |
