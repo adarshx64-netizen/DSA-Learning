@@ -27,6 +27,7 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0037-sudoku-solver](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0520-detect-capital](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3110-score-of-a-string) |
 ## Math
 |  |
@@ -126,4 +128,13 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0402-remove-k-digits](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Sorting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
