@@ -22,12 +22,14 @@ Documenting my DSA learning journey, one problem at a time.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2104-sum-of-subarray-ranges) |
+| [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,6 +135,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
