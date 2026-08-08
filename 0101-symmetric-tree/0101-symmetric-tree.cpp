@@ -11,7 +11,30 @@
  */
 class Solution {
 public:
+
+    bool solve(TreeNode* left, TreeNode* right) {
+
+        // Base Case
+        if(left == NULL || right == NULL) return left == right;
+
+        // If both left and right value are not equal then return false
+        if(left->val != right->val) return false;
+
+        return solve(left->left, right->right) && solve(left->right, right->left);
+
+        // if(!n1 && !n2) return true;
+
+        // if((n1->left && n2->right) && (n1->left == n2->right)) solve(n1->left, n2->right); 
+        // if((n1->right && n2->left) && (n1->right == n2->left)) solve(n1->right, n2->left); 
+
+        
+
+        // return false;
+    }
+
     bool isSymmetric(TreeNode* root) {
+
+        return solve(root->left, root->right);
         
         vector<vector<pair<int, int>>> verticalOrder;
         verticalOrderTraversal(root, verticalOrder);
@@ -27,11 +50,7 @@ public:
                 if(!(it1.first == it2.first && it1.second + it2.second == 0)) return false;
 
                 if((n & 1) && n != 1) return false;
-
-                // cout << it.first << " " << it.second << ", ";
             }
-
-            // cout << endl;
         }
 
         
