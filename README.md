@@ -148,6 +148,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0100-same-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -157,6 +158,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0100-same-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0100-same-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -175,6 +178,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
