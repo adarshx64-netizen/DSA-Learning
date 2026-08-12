@@ -77,6 +77,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0402-remove-k-digits) |
@@ -148,6 +149,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0098-validate-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
@@ -159,6 +161,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0098-validate-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
@@ -168,6 +171,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0098-validate-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
