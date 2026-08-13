@@ -155,6 +155,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -168,6 +169,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -200,4 +203,12 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
