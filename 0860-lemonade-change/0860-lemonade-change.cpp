@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // TC -> O(N)
+    // SC -> O(1)
     bool lemonadeChange(vector<int>& bills) {
         
         int cnt5 = 0, cnt10 = 0;
