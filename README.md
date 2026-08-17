@@ -125,6 +125,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -233,5 +234,6 @@ Documenting my DSA learning journey, one problem at a time.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
