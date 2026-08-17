@@ -230,4 +230,8 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
