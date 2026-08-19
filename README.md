@@ -74,6 +74,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0503-next-greater-element-ii) |
@@ -127,6 +129,7 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,5 +238,6 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
