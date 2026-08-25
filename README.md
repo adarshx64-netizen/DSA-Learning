@@ -6,6 +6,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0046-permutations) |
@@ -131,6 +132,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
