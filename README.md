@@ -14,6 +14,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0055-jump-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
@@ -140,6 +141,7 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0907-sum-of-subarray-minimums) |
