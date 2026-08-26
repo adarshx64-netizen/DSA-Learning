@@ -1,13 +1,16 @@
 class Solution {
 public:
+    vector<vector<int>> generate(int n) {
 
+        // return BF(n);
+        return optimal(n);   
+    }
 
-// Formula -> ans -> (ans*(row-col))/col;
-// in every step ans is multiplied and update
-// TC -> O(N)  Sc -> O(1)
-vector<vector<int>> generate(int n) {
+    // Formula -> ans = (ans*(row-col))/col;
+    // in every step ans is multiplied and update
+    // TC -> O(N)  Sc -> O(1)
+    vector<vector<int>> optimal(int n) {
 
-    return BF(n);
         vector<vector<int>> mat;
 
         for(int r = 0; r < n; r++){
@@ -25,6 +28,9 @@ vector<vector<int>> generate(int n) {
 
         return mat;
     }
+
+
+
 
     // TC -> O(N^3), SC -> O(N^2)
     vector<vector<int>> BF(int n) {
