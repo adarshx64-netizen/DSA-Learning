@@ -1,32 +1,41 @@
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-        // Edge case
-        if(num.size() == k) return "0";
+        
+        return solve(num, k);
+    }
+
+    // TC -> O(N), SC -> O(N)
+    string solve(string num, int k) {
 
         stack<char> st;
-        for(int i = 0; i < num.size(); i++) {
-            if(st.empty()) {st.push(num[i]); continue;}
-            
-            while(!st.empty() && k > 0 && st.top() > num[i]) {st.pop(); k--;}
+        for(char c : num) {
 
-            st.push(num[i]);
+            // if k greater than 0 and our stack is not empty and 
+            // the upcoming digit is less than the current top than 
+            // we will pop the stack top
+            while(!st.empty() && k > 0 && st.top() > c) {st.pop(); k--;}
+
+            st.push(c);
+
+            // popping preceding zeroes
+            if(st.size() == 1 && c == '0') st.pop();
         }
 
+        // cases like "456" where every num[i] > num.top()
         while(!st.empty() && k > 0) {st.pop(); k--;}
 
-        string s = "";
-        while (!st.empty()) {
-            s += st.top();
+        string res = "";
+        while(!st.empty()) {
+
+            res += st.top();
             st.pop();
         }
 
-        while(s.size() > 0 && s.back() == '0') s.pop_back();
-        reverse(s.begin(), s.end());
+        reverse(res.begin(), res.end());
 
-        // Edge case
-        if(s.empty()) return "0";
+        if(res.size() == 0) return "0";
 
-        return s;
+        return res;
     }
 };
