@@ -1,42 +1,38 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& a) {
-        // stack<int> st;
+    vector<int> asteroidCollision(vector<int>& asteroids) {
+        
+        int n = asteroids.size();
+        return BF(asteroids, n);
+    }
+
+    vector<int> BF(vector<int>& arr, int n) {
+
         vector<int> ans;
+        for(int i = 0; i < n; i++) {
 
-        for(int i = 0; i < a.size(); i++) {
-            /* Push the asteroid in stack if a right moving asteroid is seen */
-            // if(a[i] > 0) st.push(a[i]);
-            if(a[i] > 0) ans.push_back(a[i]);
+            // ye pata karne k liye ki curr ko ans me rakhna hai ki nhi
+            bool ok = true;
 
-            /* Else if the asteroid is moving right, perform the collisions */
-            else {
-                /* Until the right moving asteroids are smaller in size, keep on destroying them */ 
-                // while((!st.empty()) && (st.top() < abs(a[i]))) st.pop();
-                while(!ans.empty() && ans.back() > 0 && ans.back() < abs(a[i])) ans.pop_back();
-                // if(!st.empty() && st.top() == abs(a[i])) {
-                //     st.pop();
-                // }
-                // else if(st.empty() || st.top() < 0){
-                //     st.push(a[i]);
-                // }
-                /* If there is right moving asteroid which is of same size */
-                if(!ans.empty() && ans.back() == abs(a[i])) {
-                    ans.pop_back();  // Destroy both Asteroids
-                }
-                /* Otherwise, if there is no left moving asteroid, the right moving asteroid will not be destroyed */
-                else if(ans.empty() || ans.back() < 0){
-                    ans.push_back(a[i]);
+            // if ans is not empty and ans.back() > 0 and arr[i] < 0 ho to
+            while(!ans.empty() && ans.back() > 0 && arr[i] < 0) {
+
+                // if incoming asteroid is bigger then prev -> pop 
+                if(ans.back() < abs(arr[i])) ans.pop_back();
+
+                else {
+
+                    // if incoming == prev then pop and break the loop
+                    if(ans.back() == abs(arr[i])) ans.pop_back();
+                    ok = !ok;  // means curr ko nhi lena hai
+                    break;
                 }
             }
+
+            // if ok == true then push otherwise leave it
+            if(ok) ans.push_back(arr[i]);
         }
 
-        // while(!st.empty()) {
-        //     ans.push_back(st.top());
-        //     st.pop();
-        // }
-
-        // reverse(ans.begin(), ans.end());
         return ans;
     }
 };
