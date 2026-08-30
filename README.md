@@ -259,4 +259,8 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0229-majority-element-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
