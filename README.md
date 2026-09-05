@@ -31,6 +31,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [2104-sum-of-subarray-ranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2104-sum-of-subarray-ranges) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,4 +264,8 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0084-largest-rectangle-in-histogram) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
