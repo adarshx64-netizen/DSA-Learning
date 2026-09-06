@@ -7,6 +7,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
@@ -227,6 +228,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
