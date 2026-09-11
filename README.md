@@ -28,6 +28,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0875-koko-eating-bananas](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0907-sum-of-subarray-minimums) |
 | [1260-shift-2d-grid](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1260-shift-2d-grid) |
+| [1539-kth-missing-positive-number](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -238,6 +239,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1539-kth-missing-positive-number) |
 ## DP on Trees
 |  |
 | ------- |
