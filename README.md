@@ -33,6 +33,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2104-sum-of-subarray-ranges) |
+| [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3904-smallest-stable-index-ii) |
@@ -137,6 +138,7 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0735-asteroid-collision](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1260-shift-2d-grid) |
+| [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -169,6 +171,7 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0229-majority-element-ii) |
+| [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -277,4 +280,8 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3904-smallest-stable-index-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
