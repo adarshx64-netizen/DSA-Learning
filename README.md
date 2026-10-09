@@ -63,6 +63,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0402-remove-k-digits](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -105,6 +106,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0678-valid-parenthesis-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0907-sum-of-subarray-minimums) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -164,6 +166,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0402-remove-k-digits](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0860-lemonade-change) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -261,6 +264,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Linked List
 |  |
 | ------- |
