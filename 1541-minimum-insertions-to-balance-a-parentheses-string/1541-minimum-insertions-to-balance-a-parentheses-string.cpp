@@ -9,11 +9,11 @@ public:
             if(s[i] == '(') st.push('(');
 
             else {
-                if(i+1 < n && s[i+1] == ')') i++;
-                else ans++;
+                if(i+1 < n && s[i+1] == ')') i++;   // check wather '))' form or not
+                else ans++; // if not then add one ')'
 
-                if(!st.empty()) st.pop();
-                else ans++;
+                if(!st.empty()) st.pop();  // remove '('
+                else ans++;     // else and one '('
             }
         }
 
