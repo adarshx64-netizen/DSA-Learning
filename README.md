@@ -63,6 +63,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0402-remove-k-digits](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0844-backspace-string-compare) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -106,6 +107,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0503-next-greater-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0907-sum-of-subarray-minimums) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2104-sum-of-subarray-ranges) |
@@ -140,6 +142,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1260-shift-2d-grid) |
 | [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -151,6 +154,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
