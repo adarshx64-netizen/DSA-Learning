@@ -271,6 +271,7 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0328-odd-even-linked-list) |
@@ -289,5 +290,18 @@ Documenting my DSA learning journey, one problem at a time.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
 | [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
