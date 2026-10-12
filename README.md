@@ -43,6 +43,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0037-sudoku-solver](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -181,6 +182,7 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0229-majority-element-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
@@ -205,6 +207,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -218,6 +221,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -234,6 +238,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,6 +246,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0101-symmetric-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
