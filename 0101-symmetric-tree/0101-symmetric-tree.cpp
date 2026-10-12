@@ -18,9 +18,9 @@ public:
         if(left == NULL || right == NULL) return left == right;
 
         // If both left and right value are not equal then return false
-        if(left->val != right->val) return false;
+        // if(left->val != right->val) return false;
 
-        return solve(left->left, right->right) && solve(left->right, right->left);
+        return left->val == right->val && solve(left->left, right->right) && solve(left->right, right->left);
 
         // if(!n1 && !n2) return true;
 
