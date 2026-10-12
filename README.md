@@ -134,6 +134,7 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0155-min-stack](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0225-implement-stack-using-queues) |
+| [0707-design-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -280,6 +281,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0707-design-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
