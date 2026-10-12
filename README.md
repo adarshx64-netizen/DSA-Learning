@@ -43,6 +43,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0037-sudoku-solver](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
@@ -156,6 +157,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0042-trapping-rain-water](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0234-palindrome-linked-list) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
@@ -205,6 +207,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -221,6 +224,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -236,6 +240,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -246,6 +251,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0101-symmetric-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -255,6 +261,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0098-validate-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0875-koko-eating-bananas) |
