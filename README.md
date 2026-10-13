@@ -35,6 +35,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [2104-sum-of-subarray-ranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2104-sum-of-subarray-ranges) |
 | [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -179,6 +180,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +189,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
