@@ -28,6 +28,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0860-lemonade-change](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1260-shift-2d-grid) |
 | [1539-kth-missing-positive-number](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -61,6 +62,7 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0037-sudoku-solver](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
@@ -262,6 +264,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
