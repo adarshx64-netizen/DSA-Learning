@@ -233,6 +233,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0130-surrounded-regions](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -269,6 +270,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |
@@ -359,6 +361,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0802-find-eventual-safe-states) |
@@ -373,6 +376,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
