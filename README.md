@@ -83,6 +83,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -100,6 +101,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0234-palindrome-linked-list) |
@@ -314,6 +316,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
