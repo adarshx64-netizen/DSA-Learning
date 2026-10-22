@@ -31,6 +31,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0907-sum-of-subarray-minimums](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1260-shift-2d-grid) |
 | [1539-kth-missing-positive-number](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -67,6 +68,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
@@ -281,6 +283,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
