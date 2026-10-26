@@ -42,6 +42,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [2104-sum-of-subarray-ranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2104-sum-of-subarray-ranges) |
 | [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3904-smallest-stable-index-ii) |
@@ -74,6 +75,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1254-number-of-closed-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1020-number-of-enclaves](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -299,6 +302,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1091-shortest-path-in-binary-matrix](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -385,6 +389,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1020-number-of-enclaves](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
