@@ -94,6 +94,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0002-add-two-numbers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0231-power-of-two) |
+| [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -250,6 +251,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |
@@ -289,6 +291,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0130-surrounded-regions](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
+| [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |
@@ -445,4 +448,20 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
