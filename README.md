@@ -53,6 +53,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0229-majority-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
@@ -259,6 +260,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0785-is-graph-bipartite](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1254-number-of-closed-islands) |
@@ -389,6 +391,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0130-surrounded-regions](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1631-path-with-minimum-effort) |
@@ -402,6 +405,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0785-is-graph-bipartite](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
@@ -412,6 +416,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
