@@ -36,6 +36,9 @@ public:
 class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
+
+        return solveUsingBFS(stones);
+
         int n = stones.size();
         DisjointSet ds(n);
 
@@ -55,6 +58,48 @@ public:
         }
 
         // Answer = Total stones - Number of connected components
+        return n - cnt;
+    }
+
+    int solveUsingBFS(vector<vector<int>>& stones) {
+        int n = stones.size();
+
+        vector<vector<int>> adj(n);
+
+        for(int i = 0; i < n; i++) {
+            for(int j = i+1; j < n; j++) {
+
+                if(stones[i][0] == stones[j][0] || stones[i][1] == stones[j][1]) {
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
+                }
+            }
+        }
+
+        int cnt = 0;
+        vector<int> vis(n, 0);
+        queue<int> q;
+
+        for(int i = 0; i < n; i++) {
+            if(vis[i]) continue;
+
+            cnt++;
+            vis[i] = 1;
+            q.push(i);
+
+            while(!q.empty()) {
+                int s = q.front();
+                q.pop();
+
+                for(auto it : adj[s]) {
+                    if(!vis[it]) {
+                        vis[it] = 1;
+                        q.push(it);
+                    }
+                }
+            }
+        }
+
         return n - cnt;
     }
 };
