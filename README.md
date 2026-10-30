@@ -89,6 +89,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3110-score-of-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
 | ------- |
@@ -373,6 +374,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1631-path-with-minimum-effort) |
 | [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -408,6 +410,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -445,6 +448,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
